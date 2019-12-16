@@ -27,3 +27,5 @@ jim.last_name = "Bob"
 
 steve.learn(some_knowledge)
 steve.learn(some_knowledge)
+
+puts steve.knowledge
